@@ -35,7 +35,7 @@ This will generate a compressed output file named 'compressed_output.bin'.
 4. The input file is then read again, and its content is compressed using the Huffman codes generated from the tree.
 5. The compressed data is written to the output file along with a marker indicating the end of the header and the start of compressed data.
 
-__Decompression(decompress.py)__
+## Decompression(decompress.py)
 
 **Usage**
 To decompress a file:
