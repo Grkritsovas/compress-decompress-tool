@@ -37,7 +37,7 @@ This will generate a compressed output file named 'compressed_output.bin'.
 
 ## Decompression(decompress.py)
 
-**Usage**
+### Usage
 To decompress a file:
 ```bash
 python decompress.py
