@@ -31,7 +31,7 @@ How it Works
 4.The input file is then read again, and its content is compressed using the Huffman codes generated from the tree.
 5.The compressed data is written to the output file along with a marker indicating the end of the header and the start of compressed data.
 Decompression (decompress.py)
-Usage
+Usage:
 To decompress a file:
 '''
 python decompress.py <input_file>
