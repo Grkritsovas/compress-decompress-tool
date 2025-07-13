@@ -55,9 +55,13 @@ This will generate a decompressed output file named 'decompressed_output.txt'.
 
 ## Demo pictures
 The figure bellow shows how the process works: 135-0.txt is the original file (3.291 KB) -> compressed with compress.py to compressed_output.bin (1817 KB) -> decompressed with decompress.py to decompressed_output.txt (3.291 KB)
+
 ![Compression process](compression.png)
 
+
 And the last figure showcases the sequence in which to run the python scripts on the windows cmd terminal. First navigate to the folder in which the script is located, then run the compression, and once ready to decompress, run the decompress.py to get back the original file.
+
+
 ![Compression process](compression_cmd.png)
 
 George Kritsovas
